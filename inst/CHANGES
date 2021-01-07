@@ -1,4 +1,14 @@
-Changes since version 0.5.7
+Changes since version 0.6.0:
+----------------------------
+* Updated contact details
+
+
+Changes since version 0.5.8:
+----------------------------
+* Avoid warnings due to vector matrix multiplication + minor edits.
+* Updated contact details
+
+Changes since version 0.5.7:
 ----------------------------
 * Updated contact and citation information. 
 

@@ -69,7 +69,7 @@ Chambers, J. M. and Hastie, T. J. (1992) \emph{Statistical Models in
 S}. Chapman \& Hall/CRC.
 
 }
-\author{Ioannis Kosmidis <email: i.kosmidis@ucl.ac.uk>}
+\author{Ioannis Kosmidis <email: ioannis.kosmidis@warwick.ac.uk>}
 \seealso{\code{\link{profileModel}}, \code{\link{confintModel}}, \code{\link{profile.glm}}}
 \examples{
 # see example in 'confintModel'.
