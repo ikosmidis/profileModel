@@ -9,4 +9,4 @@ Description: Provides tools that can be used to calculate, evaluate, plot and us
 License: GPL (>= 2)
 Depends: R (>= 2.6.0)
 Suggests: MASS, gnm
-RoxygenNote: 6.1.1
+RoxygenNote: 7.1.1

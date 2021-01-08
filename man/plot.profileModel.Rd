@@ -70,7 +70,7 @@ S}. Chapman \& Hall/CRC.
 
 }
 \author{Ioannis Kosmidis <email: ioannis.kosmidis@warwick.ac.uk>}
-\seealso{\code{\link{profileModel}}, \code{\link{confintModel}}, \code{\link{profile.glm}}}
+\seealso{\code{\link{profileModel}}, \code{\link{confintModel}}, \code{\link[MASS]{profile.glm}}}
 \examples{
 # see example in 'confintModel'.
 }
