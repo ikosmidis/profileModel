@@ -1,6 +1,6 @@
 print.profileModel <- function(x, print.fit = FALSE, ...) {
     cat("\nCall: ", deparse(x$call), "\n\n")
-    if (class(x) != "profileModel")
+    if (!inherits(x, "profileModel"))
         stop("An object of class 'profileModel' has to be supplied.")
     fitted <- x$fit
     BetaNames <- names(x$profiles)[!x$isNA]
