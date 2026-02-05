@@ -274,7 +274,7 @@ profiling(fitted, grid.bounds, gridsize = 20, verbose = TRUE,
   score tests. \emph{Statistical Science} \bold{18}, 394--410.
 
   Chambers, J. M. and Hastie, T. J. (1992) \emph{Statistical Models in
-  S}. Chapman \& Hall/CRC.
+  S}. Chapman & Hall/CRC.
 
 }
 \author{Ioannis Kosmidis <email: ioannis.kosmidis@warwick.ac.uk>}

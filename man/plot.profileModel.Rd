@@ -66,7 +66,7 @@ Venables, W. N. and Ripley, B. D. (2002b). Statistics complements
   \url{http://www.stats.ox.ac.uk/pub/MASS4/VR4stat.pdf}.
 
 Chambers, J. M. and Hastie, T. J. (1992) \emph{Statistical Models in
-S}. Chapman \& Hall/CRC.
+S}. Chapman & Hall/CRC.
 
 }
 \author{Ioannis Kosmidis <email: ioannis.kosmidis@warwick.ac.uk>}
